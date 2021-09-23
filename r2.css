@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+
+.ad{
+    color:blue;
+}
+.sd{
+    background-color: red;
+}
+.ad.sd{
+    font-style: italic;
+}
+
+div p {
+    color:green;
+}
+
+#list li{
+    background-color:gray;
+}
+#list>li{
+    background-color:orange;
+}
+.Big{
+    font-size:20;
+    background-color: green
+}
